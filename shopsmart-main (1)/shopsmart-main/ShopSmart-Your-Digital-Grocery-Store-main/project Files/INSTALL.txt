@@ -1,0 +1,10 @@
+INSTALL NODE.JS FIRST:
+
+1. Go to https://nodejs.org/
+2. Download and install Node.js
+3. Restart VS Code
+4. Run: node server.js
+
+OR
+
+Double-click start.cmd file

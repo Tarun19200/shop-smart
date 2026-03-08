@@ -1,0 +1,3 @@
+@echo off
+echo Starting ShopSmart...
+node server.js
